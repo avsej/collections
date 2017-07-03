@@ -1,0 +1,5 @@
+{
+    "revision" : 1,
+    "separator" : ":",
+    "collections" : ["example1", "example2"]
+}
