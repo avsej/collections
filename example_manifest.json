@@ -1,5 +1,7 @@
 {
-    "revision" : 1,
     "separator" : ":",
-    "collections" : ["example1", "example2"]
+    "collections" : [
+      {"name": "example1", "uid": "1"},
+      {"name": "example2", "uid": "2"}
+    ]
 }
